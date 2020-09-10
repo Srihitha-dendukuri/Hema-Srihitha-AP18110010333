@@ -1,0 +1,7 @@
+1 #include<stdio.h>
+2 int main()
+3 {
+4 int a; 
+5 printf("%d praveen",a);
+6 return 0;
+7 }
